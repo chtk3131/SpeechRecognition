@@ -1,0 +1,13 @@
+/* #result-div {
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: left;
+  min-height: 150px;
+} */
+
+#result-txt {
+  width: 100%;
+  height: 100%;
+}
